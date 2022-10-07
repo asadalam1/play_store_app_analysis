@@ -1,5 +1,4 @@
 # play_store_app_analysis
-Abstract:
 The Google play store is one of the largest and most popular Android app store. A few thousands of new applications are regularly uploaded on Google play store. A huge number of developers working freely on designing the apps and making them successful. With the enormous challenge from everywhere throughout the globe, it is important for a developer to know whether he/she is continuing the correct way or not. The objective of this experiment is to deliver insights to understand customer demands better and thus help developers to popularize the product. We have tried to discover the relationships among various attributes such as which application is free or paid, what are the user reviews, rating of the application.
 
 
